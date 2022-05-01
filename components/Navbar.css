@@ -1,0 +1,27 @@
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mysearch{
+    display: flex;
+    align-items: flex-end;
+}
+.input{
+    color:black;
+    margin-left: 10px;
+}
+.input:hover{
+    color: black;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    
+}
+.notify{
+    margin-right: 5x;
+}
+.mail{
+    margin-right: 20px;
+}
